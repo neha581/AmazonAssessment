@@ -2,7 +2,7 @@
 This repository contains Selenium test scripts for testing various scenarios on Amazon.in. The tests are written in Java and utilize the Selenium WebDriver framework for browser automation.
 
 Prerequisites Before running the tests, ensure you have the following prerequisites installed:
-Java Development Kit (JDK) installed on your machine. WebDriver executable files for Chrome, Firefox, and Safari browsers. Download the respective drivers and ensure they are added to your system PATH or set the system properties in the test scripts accordingly. Maven installed on your machine. This is required to manage dependencies and build the project. Setup Clone this repository to your local machine: bash Copy code git clone https://github.com/neha581/AmazonAutomationAssessment.git Navigate to the project directory: bash Copy code cd AmazonAutomationAssessment Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+Java Development Kit (JDK) installed on your machine. WebDriver executable files for Chrome, Firefox, and Safari browsers. Download the respective drivers and ensure they are added to your system PATH or set the system properties in the test scripts accordingly. Maven installed on your machine. This is required to manage dependencies and build the project. Setup Clone this repository to your local machine: bash Copy code git clone https://github.com/neha581/AmazonAssessment.git Navigate to the project directory: bash Copy code cd AmazonAutomationAssessment Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 Ensure the WebDriver paths are correctly set in the test scripts (if not added to PATH).
 
